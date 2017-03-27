@@ -1,0 +1,12 @@
+# Ignore these files
+*.class
+*.com
+*.dll
+*.jar
+*.ear
+*.war
+*.zip
+*.log
+.project
+.classpath
+target
